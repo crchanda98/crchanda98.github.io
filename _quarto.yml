@@ -4,3 +4,5 @@ project:
 execute:
   freeze: auto
 format: html
+website:
+  site-url: "https://crchanda98.github.io"
